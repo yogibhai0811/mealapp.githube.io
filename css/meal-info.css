@@ -1,0 +1,46 @@
+#info-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 4rem;
+}
+
+#thumb{
+    border-radius: 50%;
+    width: 30rem;
+}
+
+#meal-info{
+    display: flex;
+
+}
+
+#instructions{
+    font-size: 1.5rem;
+    margin-left: 2rem;
+    margin-top: 3rem;
+    background-color: rgb(213, 228, 233,0.75);   
+}
+
+.ingredient{
+    list-style: none;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    font-weight: 700;
+    letter-spacing: 0.2rem;
+    /* background-color: rgba(250, 235, 214, 255); */
+    background-color: rgb(213, 228, 233,0.75);   
+}
+
+#ingredients-info{
+    font-size: 3rem;
+}
+
+#area{
+    font-size: 2.5rem;
+}
+
+
+#header{
+    font-size: 4rem;
+}
